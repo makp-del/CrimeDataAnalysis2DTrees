@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>ROBBERY</name>
+<description>5000 FORBES AV</description>
+<Point>
+<coordinates>-79.94295871,40.44471042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ROBBERY</name>
+<description>5050 FORBES AV</description>
+<Point>
+<coordinates>-79.94116573,40.44441059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RAPE</name>
+<description>1045 MOREWOOD AV</description>
+<Point>
+<coordinates>-79.94213366,40.44600282,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RAPE</name>
+<description>1085 MOREWOOD AV</description>
+<Point>
+<coordinates>-79.9427202,40.44504608,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AGGRAVATED ASSAULT</name>
+<description>5000 FORBES AV</description>
+<Point>
+<coordinates>-79.94295871,40.44471042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ROBBERY</name>
+<description>5000 FORBES AV</description>
+<Point>
+<coordinates>-79.94295871,40.44471042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ROBBERY</name>
+<description>5000 FORBES AV</description>
+<Point>
+<coordinates>-79.94295871,40.44471042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RAPE</name>
+<description>1060 MOREWOOD AV</description>
+<Point>
+<coordinates>-79.94247415,40.44569883,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ROBBERY</name>
+<description>5044 FORBES AV</description>
+<Point>
+<coordinates>-79.94136529,40.44444479,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
